@@ -1,4 +1,4 @@
-<img src="https://github.com/mohammed-hossam/deploy-project/blob/main/documentation/AWS-screenshoots/aws.png">
+<img src="https://github.com/mohammed-hossam/deploy-project/tree/main/documentation/AWS-screenshoots/aws.png">
 
 #### Frontend aws S3 bucket
 
