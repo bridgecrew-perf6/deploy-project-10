@@ -11,7 +11,7 @@
 
 ## Important enviroment variables:
 
-![env]("https://github.com/mohammed-hossam/deploy-project/blob/main/documentation/env.PNG")
+![env](https://github.com/mohammed-hossam/deploy-project/blob/main/documentation/env.PNG)
 
 ### Backend: `http://udagram-api-dev.eba-y3783vep.us-east-1.elasticbeanstalk.com/`
 
@@ -19,8 +19,8 @@
 
 ### architecture overview:
 
-![architecture](https://github.com/mohammed-hossam/deploy-project/blob/main/documentation/aws.PNG")
+![architecture](https://github.com/mohammed-hossam/deploy-project/blob/main/documentation/aws.PNG)
 
 ### pipeline overview:
 
-![pipeline]("https://github.com/mohammed-hossam/deploy-project/blob/main/documentation/pipeline.PNG")
+![pipeline](https://github.com/mohammed-hossam/deploy-project/blob/main/documentation/pipeline.PNG)
